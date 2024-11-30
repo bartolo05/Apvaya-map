@@ -1,0 +1,2403 @@
+{
+    "files": {
+        "(8,13,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "92d1b976e37e32824dd9728bbe77bb7c", 
+            "key": "(8,13,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/3.png"
+        }, 
+        "(7,4,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "cd02b8f642fdf77c7d137461f5db40d4", 
+            "key": "(7,4,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/4/2.png"
+        }, 
+        "(8,1,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/14.png"
+        }, 
+        "(8,8,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/0.png"
+        }, 
+        "(8,5,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/0.png"
+        }, 
+        "(8,7,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/13.png"
+        }, 
+        "(8,9,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3db0174df9136ec82b1b84a810d69ada", 
+            "key": "(8,9,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/12.png"
+        }, 
+        "(8,9,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "2f2f71ffe356727e5320476f40eaada1", 
+            "key": "(8,9,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/9.png"
+        }, 
+        "(8,11,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/13.png"
+        }, 
+        "(7,3,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "2bad7dac72e05851fff8a719b5c88cd5", 
+            "key": "(7,3,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/3/5.png"
+        }, 
+        "(8,4,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/13.png"
+        }, 
+        "(8,7,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "094f082cce1a780519384fce700cf9e9", 
+            "key": "(8,7,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/7.png"
+        }, 
+        "(8,15,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/1.png"
+        }, 
+        "(8,6,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/15.png"
+        }, 
+        "(8,9,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "cd23ef1f5503738b797b497c0a92b8fe", 
+            "key": "(8,9,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/6.png"
+        }, 
+        "(8,0,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "333e4ae8d3e916ecac51627152812524", 
+            "key": "(8,0,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/6.png"
+        }, 
+        "(8,10,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "eaab97a2dbb24e49debb3233397e4e99", 
+            "key": "(8,10,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/6.png"
+        }, 
+        "(8,3,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f213a36b64b97f67407be32d592eccf2", 
+            "key": "(8,3,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/12.png"
+        }, 
+        "(8,6,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "5eca1424b8dadfa8bf6a6c60780cc000", 
+            "key": "(8,6,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/4.png"
+        }, 
+        "(8,5,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "6982ddf0677d14f822d1ff5af2a25a86", 
+            "key": "(8,5,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/8.png"
+        }, 
+        "(8,0,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/15.png"
+        }, 
+        "(8,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/2.png"
+        }, 
+        "(8,15,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "894c4cdc9653f488657bfda2e35bf090", 
+            "key": "(8,15,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/5.png"
+        }, 
+        "(8,3,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4a90531dcfccf93fb745941603f149f8", 
+            "key": "(8,3,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/6.png"
+        }, 
+        "(5,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c7e2370934a2d220b1f8bae5c2a31210", 
+            "key": "(5,0,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/5/0/1.png"
+        }, 
+        "(8,9,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/2.png"
+        }, 
+        "(8,6,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "c4e725c2397bb997b3f1d492eecd6c4c", 
+            "key": "(8,6,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/12.png"
+        }, 
+        "(8,10,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "487c417d6c4eaa8af1a12375b3716828", 
+            "key": "(8,10,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/7.png"
+        }, 
+        "(7,6,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3c357446a044a3905f7fb745290c6c7a", 
+            "key": "(7,6,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/6/3.png"
+        }, 
+        "(8,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/2.png"
+        }, 
+        "(7,3,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "23424f29c4203bb67408712f23a21105", 
+            "key": "(7,3,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/3/4.png"
+        }, 
+        "(8,3,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c96f94f8f55435df1dd55d9561cc44de", 
+            "key": "(8,3,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/9.png"
+        }, 
+        "(6,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d285b89085f48979dc034bdfb95694bd", 
+            "key": "(6,1,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/1/2.png"
+        }, 
+        "(6,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0b45f037a58d93684d01b26f3da6cda6", 
+            "key": "(6,3,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/3/2.png"
+        }, 
+        "(8,11,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "64d513ded774b465b33b58db0905d25a", 
+            "key": "(8,11,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/5.png"
+        }, 
+        "(8,12,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/13.png"
+        }, 
+        "(7,5,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f56b4e3413db074bfca43d43a945c525", 
+            "key": "(7,5,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/5/4.png"
+        }, 
+        "(7,5,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "11968b4a669a8231b56663d640601244", 
+            "key": "(7,5,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/5/5.png"
+        }, 
+        "(8,4,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "4cd1c43cc225c2e2e608632a748586fa", 
+            "key": "(8,4,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/3.png"
+        }, 
+        "(8,12,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1cca472cc1f7ddffd578c38c7cd8d135", 
+            "key": "(8,12,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/5.png"
+        }, 
+        "(8,8,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3fb3b2362d9ce7c461d3743f0c0a2570", 
+            "key": "(8,8,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/8.png"
+        }, 
+        "(8,14,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "185e1c997dcff972c3c00694a449f9d6", 
+            "key": "(8,14,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/11.png"
+        }, 
+        "(7,0,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4be274945323842478fed72a03c865f4", 
+            "key": "(7,0,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/0/4.png"
+        }, 
+        "(8,5,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "ecac584f45930c9a2f0f60784dfbb115", 
+            "key": "(8,5,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/3.png"
+        }, 
+        "(8,8,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/1.png"
+        }, 
+        "(8,3,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/13.png"
+        }, 
+        "(8,10,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "313ff5ba1e586484b21f9ffa21fe7f09", 
+            "key": "(8,10,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/9.png"
+        }, 
+        "(8,15,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "887668adad3e93cb2c9196755e7c5288", 
+            "key": "(8,15,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/9.png"
+        }, 
+        "(8,12,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/14.png"
+        }, 
+        "(7,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,3,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/3/0.png"
+        }, 
+        "(8,9,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/1.png"
+        }, 
+        "(8,7,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "7c07821456471e016d7322f826e807cc", 
+            "key": "(8,7,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/10.png"
+        }, 
+        "(8,0,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/13.png"
+        }, 
+        "(7,5,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "fb354a76d72e4136b2ff9206bba91f91", 
+            "key": "(7,5,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/5/2.png"
+        }, 
+        "(8,7,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6ff746a42c51c3be4e2464203b28c534", 
+            "key": "(8,7,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/6.png"
+        }, 
+        "(8,4,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "46859cca7617ebb8b1394c6def1a1c21", 
+            "key": "(8,4,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/12.png"
+        }, 
+        "(8,2,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "fb107488f279b3e4d90a833417af2349", 
+            "key": "(8,2,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/8.png"
+        }, 
+        "(8,0,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/14.png"
+        }, 
+        "(8,6,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/14.png"
+        }, 
+        "(8,0,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "a3e9911cd8a966a7a99722160050e66e", 
+            "key": "(8,0,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/7.png"
+        }, 
+        "(7,7,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "46543e2d776c3b22d8d102d5d45c278c", 
+            "key": "(7,7,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/7/3.png"
+        }, 
+        "(8,5,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "528110010c9cd5a6990916d9c5f4124d", 
+            "key": "(8,5,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/10.png"
+        }, 
+        "(7,5,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "04858c68a2272eb1f53df5430d5612aa", 
+            "key": "(7,5,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/5/3.png"
+        }, 
+        "(8,11,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/2.png"
+        }, 
+        "(8,14,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/14.png"
+        }, 
+        "(6,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "31978d79bccd31d13b03ebc83467e8fc", 
+            "key": "(6,2,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/2/0.png"
+        }, 
+        "(8,3,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "4f7a85befda7043f8e975b80d275fc41", 
+            "key": "(8,3,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/5.png"
+        }, 
+        "(8,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "21729f6215ca1727f2485ae439db928c", 
+            "key": "(8,2,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/3.png"
+        }, 
+        "(8,10,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/14.png"
+        }, 
+        "(8,15,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/0.png"
+        }, 
+        "(8,2,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "08cd8c770cedd5e57578f82dba7afc77", 
+            "key": "(8,2,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/11.png"
+        }, 
+        "(5,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "c33bc79a4102517b33d462e25e4e54c8", 
+            "key": "(5,0,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/5/0/0.png"
+        }, 
+        "(8,1,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "2aa5eed62072bb02122e613d1fa6563c", 
+            "key": "(8,1,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/5.png"
+        }, 
+        "(7,5,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,5,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/5/0.png"
+        }, 
+        "(8,9,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "53efa01f9aea0121a0d6f729f4c2cc44", 
+            "key": "(8,9,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/11.png"
+        }, 
+        "(8,4,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "66766336b2b6184693fe1b56e33e52ad", 
+            "key": "(8,4,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/4.png"
+        }, 
+        "(8,13,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/1.png"
+        }, 
+        "(5,1,1)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "dd1fa1e584943363540fff1cf161ca52", 
+            "key": "(5,1,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/5/1/1.png"
+        }, 
+        "(8,14,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d5783537ab47a3a503a663d52c160246", 
+            "key": "(8,14,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/6.png"
+        }, 
+        "(7,6,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "4d6788dbbeaa951f481f96f5dfd96601", 
+            "key": "(7,6,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/6/5.png"
+        }, 
+        "(6,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "fd47c404b32415ef2ce9ea3021a9a01e", 
+            "key": "(6,3,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/3/3.png"
+        }, 
+        "(8,13,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b95e05bee4c8dca5c9883018e98bfef7", 
+            "key": "(8,13,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/8.png"
+        }, 
+        "(8,3,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/14.png"
+        }, 
+        "(8,8,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "9bb8376581f76f112b6b791ffb35e875", 
+            "key": "(8,8,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/9.png"
+        }, 
+        "(8,12,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "eae19a0692a6c36423dae810089d2d47", 
+            "key": "(8,12,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/4.png"
+        }, 
+        "(8,6,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "df68e9232f28c42de85c0e485028fe2b", 
+            "key": "(8,6,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/5.png"
+        }, 
+        "(8,8,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/2.png"
+        }, 
+        "(8,1,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/13.png"
+        }, 
+        "(8,5,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/2.png"
+        }, 
+        "(8,14,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f0e78fd56d130de41d478f957db59efe", 
+            "key": "(8,14,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/10.png"
+        }, 
+        "(8,13,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c82f4ed2dd3f11982296f9cfec859d27", 
+            "key": "(8,13,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/5.png"
+        }, 
+        "(7,7,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8b2860d59a2bc8978d3152c0511e11a7", 
+            "key": "(7,7,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/7/5.png"
+        }, 
+        "(7,5,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "236e3a892d513ca5b2089a823caedb45", 
+            "key": "(7,5,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/5/1.png"
+        }, 
+        "(8,15,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/2.png"
+        }, 
+        "(8,3,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e78d3b26dab9e6c6fa2318b76216fb83", 
+            "key": "(8,3,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/10.png"
+        }, 
+        "(8,9,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/0.png"
+        }, 
+        "(8,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/0.png"
+        }, 
+        "(8,12,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/15.png"
+        }, 
+        "(8,7,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "57f67154932244f1d7e3d43fd7eef153", 
+            "key": "(8,7,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/5.png"
+        }, 
+        "(8,0,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b38223e136f45cc598d1a79099ebd417", 
+            "key": "(8,0,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/12.png"
+        }, 
+        "(8,11,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/15.png"
+        }, 
+        "(8,10,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "481d9591897b294a808478aeb43d1c35", 
+            "key": "(8,10,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/5.png"
+        }, 
+        "(8,0,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "fa83338c100b1b5c5dadd26e8020672a", 
+            "key": "(8,0,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/8.png"
+        }, 
+        "(8,2,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b045f8ce66ca71a4b8eb30ca82e25d40", 
+            "key": "(8,2,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/9.png"
+        }, 
+        "(7,4,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "88c2ca9862201510a548a3e68168daeb", 
+            "key": "(7,4,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/4/1.png"
+        }, 
+        "(8,4,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "7f83e3f98d8d9177e5fd87e75be5bd04", 
+            "key": "(8,4,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/11.png"
+        }, 
+        "(6,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2442961306dfdda89e0313e7b594e232", 
+            "key": "(6,1,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/1/3.png"
+        }, 
+        "(8,5,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "47f6adb1e9705504816ced7fc335b6ae", 
+            "key": "(8,5,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/11.png"
+        }, 
+        "(8,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/0.png"
+        }, 
+        "(7,2,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,2,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/2/7.png"
+        }, 
+        "(8,11,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "8874a38c21561ecd536ab6dcaec3608e", 
+            "key": "(8,11,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/3.png"
+        }, 
+        "(8,3,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a7a22d6a56e4423c9f06efa9b40041da", 
+            "key": "(8,3,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/4.png"
+        }, 
+        "(8,14,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/15.png"
+        }, 
+        "(7,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "9ec3c54df4c4539eca53eac7dc88c630", 
+            "key": "(7,0,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/0/3.png"
+        }, 
+        "(8,1,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ae49bcc979c4444063cb71f70c83c655", 
+            "key": "(8,1,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/4.png"
+        }, 
+        "(8,13,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/15.png"
+        }, 
+        "(8,14,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cfa2784ba280013288152df34fa65cd8", 
+            "key": "(8,14,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/8.png"
+        }, 
+        "(8,4,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "fa3b16f33d818c0f32675c34dc5e6f50", 
+            "key": "(8,4,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/5.png"
+        }, 
+        "(8,15,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "625141ebb4bf8aa092a9c8f9125b170a", 
+            "key": "(8,15,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/3.png"
+        }, 
+        "(7,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "349a946770c21bc348358017a9a44c35", 
+            "key": "(7,0,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/0/2.png"
+        }, 
+        "(7,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "5f110ae9efcb1ff0758aca41018ed61a", 
+            "key": "(7,1,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/1/1.png"
+        }, 
+        "(8,9,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/15.png"
+        }, 
+        "(8,13,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "038de693a3ffb880a55401a3d95719c9", 
+            "key": "(8,13,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/12.png"
+        }, 
+        "(8,14,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "fc4f61aff3d46013c392985fe171310c", 
+            "key": "(8,14,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/5.png"
+        }, 
+        "(8,6,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/2.png"
+        }, 
+        "(8,8,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/15.png"
+        }, 
+        "(7,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "66ab8700dfae26c43cf2596233e8b074", 
+            "key": "(7,2,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/2/1.png"
+        }, 
+        "(8,14,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/1.png"
+        }, 
+        "(8,13,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/0.png"
+        }, 
+        "(7,1,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "af6479b08376da3d2663fa305f3b25df", 
+            "key": "(7,1,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/1/4.png"
+        }, 
+        "(8,2,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4a8f74df1550486583845aa2210c1df1", 
+            "key": "(8,2,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/10.png"
+        }, 
+        "(8,15,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ecc0881dd4f0cc6260d5238143dff6ee", 
+            "key": "(8,15,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/8.png"
+        }, 
+        "(8,12,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "cbfa46e8ff0927fa9c8b8047f05cfaca", 
+            "key": "(8,12,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/6.png"
+        }, 
+        "(7,1,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3ed4da69709892fef17879db5e57dd6f", 
+            "key": "(7,1,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/1/6.png"
+        }, 
+        "(8,9,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "5b61209b1487ca2bf12c0695789fa5a8", 
+            "key": "(8,9,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/3.png"
+        }, 
+        "(8,13,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3bf591dc5a44aff1d907eb3ac7489a9b", 
+            "key": "(8,13,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/6.png"
+        }, 
+        "(8,3,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "d5e58b8bf01e416ca79c08757a6a10ce", 
+            "key": "(8,3,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/11.png"
+        }, 
+        "(8,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/1.png"
+        }, 
+        "(7,7,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b875d3e7b877f52d6059c7da774dbc80", 
+            "key": "(7,7,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/7/1.png"
+        }, 
+        "(8,9,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c3eb4259a5f288696876a512275be59e", 
+            "key": "(8,9,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/10.png"
+        }, 
+        "(8,15,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/13.png"
+        }, 
+        "(8,5,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "644c2a6ec9ba87b19d323aef5c6d9667", 
+            "key": "(8,5,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/12.png"
+        }, 
+        "(8,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/2.png"
+        }, 
+        "(8,10,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1d869b1539980c75aebc265a137e6bc4", 
+            "key": "(8,10,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/4.png"
+        }, 
+        "(8,0,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2a4c4872a3e86b5910b5c297196a7bbd", 
+            "key": "(8,0,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/11.png"
+        }, 
+        "(8,13,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/13.png"
+        }, 
+        "(7,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "e9bdaba081fbd25a884d3040672a3169", 
+            "key": "(7,1,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/1/3.png"
+        }, 
+        "(8,4,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "7706358de54891ea0e9592f07f4f59cd", 
+            "key": "(8,4,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/10.png"
+        }, 
+        "(8,8,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "54457e5f68c9fcf3eb5ef5f838636ea7", 
+            "key": "(8,8,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/12.png"
+        }, 
+        "(8,8,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "f879110404f82cc8a0f09f75451b1c4f", 
+            "key": "(8,8,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/3.png"
+        }, 
+        "(7,6,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "cdf8ef39ed50615143c0472537da1aba", 
+            "key": "(7,6,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/6/6.png"
+        }, 
+        "(7,4,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "be41aaf582c04aa5335c1e8491e0c745", 
+            "key": "(7,4,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/4/5.png"
+        }, 
+        "(4,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "6c22de4f1e52811377e0e1f3cbac52a1", 
+            "key": "(4,0,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/4/0/0.png"
+        }, 
+        "(8,1,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "a6abe5073114842314cedbb0fbd4c67f", 
+            "key": "(8,1,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/7.png"
+        }, 
+        "(7,4,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "ae9df0081331ebd483350a7b81c9ff85", 
+            "key": "(7,4,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/4/3.png"
+        }, 
+        "(8,10,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "389e20f2815c61388a3f9dbaec082028", 
+            "key": "(8,10,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/3.png"
+        }, 
+        "(8,4,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "dbdbfac72aab196526b55c874daf7232", 
+            "key": "(8,4,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/6.png"
+        }, 
+        "(6,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3c3e166e31e7cd177994993bbef26aee", 
+            "key": "(6,0,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/0/3.png"
+        }, 
+        "(7,3,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,3,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/3/7.png"
+        }, 
+        "(8,10,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "6560a67e238cecf013fc6225459c3b27", 
+            "key": "(8,10,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/12.png"
+        }, 
+        "(8,13,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/14.png"
+        }, 
+        "(8,15,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/14.png"
+        }, 
+        "(7,6,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1da7123f7f5026ff5dac048ff48ecd47", 
+            "key": "(7,6,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/6/1.png"
+        }, 
+        "(8,14,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/13.png"
+        }, 
+        "(8,5,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "54321244b6b1cec70c45a4c4e6ec44bb", 
+            "key": "(8,5,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/5.png"
+        }, 
+        "(7,4,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3f5872174c73695096bc40a85ed540db", 
+            "key": "(7,4,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/4/6.png"
+        }, 
+        "(8,14,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "0d832adaffdd110728e0f0ee02115796", 
+            "key": "(8,14,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/4.png"
+        }, 
+        "(8,6,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "bedf0f6beb2a64ca5faf7b1dbaca1fb1", 
+            "key": "(8,6,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/3.png"
+        }, 
+        "(7,1,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "0f648bd1136f6ebbce3b4ceaf9647904", 
+            "key": "(7,1,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/1/5.png"
+        }, 
+        "(8,8,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/14.png"
+        }, 
+        "(8,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/1.png"
+        }, 
+        "(8,11,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "27a15322f229387fe960bbb08019f4a7", 
+            "key": "(8,11,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/9.png"
+        }, 
+        "(6,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "12a97f6bbd9047eda00b0f340d6cc5da", 
+            "key": "(6,2,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/2/3.png"
+        }, 
+        "(8,8,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "c95355949994259091622d50946eb8b1", 
+            "key": "(8,8,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/11.png"
+        }, 
+        "(8,2,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/13.png"
+        }, 
+        "(8,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/2.png"
+        }, 
+        "(8,12,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "711779c3382fda656e8e5b05a98bde16", 
+            "key": "(8,12,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/9.png"
+        }, 
+        "(6,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "eb87cb8125872027f1202a36f7db29da", 
+            "key": "(6,1,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/1/1.png"
+        }, 
+        "(8,11,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/14.png"
+        }, 
+        "(8,13,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "242b4420a6adad150c2acd75829bf8dc", 
+            "key": "(8,13,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/7.png"
+        }, 
+        "(7,7,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "63d85e00e91be47833455d1f8602fbad", 
+            "key": "(7,7,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/7/4.png"
+        }, 
+        "(8,1,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "67945cefaba1a151cdcea0c2699855a2", 
+            "key": "(8,1,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/9.png"
+        }, 
+        "(8,11,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/0.png"
+        }, 
+        "(8,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/1.png"
+        }, 
+        "(8,10,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/2.png"
+        }, 
+        "(8,12,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2811978488575e319a6c3a8415a9d38c", 
+            "key": "(8,12,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/7.png"
+        }, 
+        "(7,2,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c29373a9c6d8a1eca730004e7f2e3ee0", 
+            "key": "(7,2,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/2/6.png"
+        }, 
+        "(8,15,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "741833f1ffb1ff30b78ec74c5763b962", 
+            "key": "(8,15,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/12.png"
+        }, 
+        "(8,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/1.png"
+        }, 
+        "(8,15,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0ad98bfa7c947c64b1b1efd8f1c8c3b2", 
+            "key": "(8,15,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/6.png"
+        }, 
+        "(8,0,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6624112729e57d28b7903a35e605c23c", 
+            "key": "(8,0,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/10.png"
+        }, 
+        "(8,8,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "46b19a623e9769ef0eda1e86fb12faa5", 
+            "key": "(8,8,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/4.png"
+        }, 
+        "(8,10,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/13.png"
+        }, 
+        "(8,12,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/0.png"
+        }, 
+        "(7,7,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ddf31dab7b362a1d50d6ee84cbb4a27e", 
+            "key": "(7,7,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/7/2.png"
+        }, 
+        "(7,1,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,1,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/1/7.png"
+        }, 
+        "(7,0,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "5a5809744323d75f62b32dfc20b64300", 
+            "key": "(7,0,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/0/6.png"
+        }, 
+        "(7,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,0,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/0/0.png"
+        }, 
+        "(8,1,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "452ebdacc29b40b9343afba211d56bd4", 
+            "key": "(8,1,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/6.png"
+        }, 
+        "(6,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b7bf76d1c52a736739bd761972c8d398", 
+            "key": "(6,0,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/0/0.png"
+        }, 
+        "(8,4,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "1fa5b0a929136743bc893d7819761618", 
+            "key": "(8,4,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/7.png"
+        }, 
+        "(8,11,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/1.png"
+        }, 
+        "(8,8,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/13.png"
+        }, 
+        "(8,6,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9163140fc4b39e26e38aa13d7d73e90e", 
+            "key": "(8,6,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/8.png"
+        }, 
+        "(8,7,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "6d45ff7edfa526a387b27cebf95616a7", 
+            "key": "(8,7,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/4.png"
+        }, 
+        "(8,12,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/1.png"
+        }, 
+        "(7,7,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,7,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/7/7.png"
+        }, 
+        "(7,5,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,5,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/5/7.png"
+        }, 
+        "(8,6,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/0.png"
+        }, 
+        "(8,5,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4eaae328cc33bdaf0c06f588af5bf5b4", 
+            "key": "(8,5,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/4.png"
+        }, 
+        "(5,1,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "94d761fc9bd23a2470e602072b002220", 
+            "key": "(5,1,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/5/1/0.png"
+        }, 
+        "(8,1,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "5d686755054b1e4404ca0555b94d8da6", 
+            "key": "(8,1,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/10.png"
+        }, 
+        "(8,2,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "5d2b57fa9629c7a278e63fa8f0829b40", 
+            "key": "(8,2,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/6.png"
+        }, 
+        "(8,14,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2703878d8af299590060234f43b20605", 
+            "key": "(8,14,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/3.png"
+        }, 
+        "(7,2,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ced5d792f17e6cb7c9ba595582df1f6d", 
+            "key": "(7,2,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/2/4.png"
+        }, 
+        "(8,12,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0b0f8f70c8a695b4e26879aee410ce8b", 
+            "key": "(8,12,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/10.png"
+        }, 
+        "(8,7,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/0.png"
+        }, 
+        "(8,9,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "50765dc2611ba6c24834927b43bd84d5", 
+            "key": "(8,9,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/5.png"
+        }, 
+        "(7,6,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,6,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/6/7.png"
+        }, 
+        "(7,6,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,6,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/6/0.png"
+        }, 
+        "(8,3,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b3b99ad38d67570e544eb98a094ba40a", 
+            "key": "(8,3,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/8.png"
+        }, 
+        "(8,2,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "29a4592259175a7d05841f107be55b95", 
+            "key": "(8,2,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/12.png"
+        }, 
+        "(8,4,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "62bb6dbb821d7deda65955396f7f74d3", 
+            "key": "(8,4,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/8.png"
+        }, 
+        "(8,15,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "a831ca8c4a255f62352f63ce63cc7462", 
+            "key": "(8,15,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/10.png"
+        }, 
+        "(8,1,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "2a7f96eec6aa61a739b6823e86eea895", 
+            "key": "(8,1,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/8.png"
+        }, 
+        "(8,5,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/14.png"
+        }, 
+        "(8,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/0.png"
+        }, 
+        "(8,10,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/1.png"
+        }, 
+        "(8,8,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "68383737ee6e27606f1bf1278c712568", 
+            "key": "(8,8,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/5.png"
+        }, 
+        "(8,4,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/15.png"
+        }, 
+        "(7,5,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "01270b36d0d024fe448853418202db56", 
+            "key": "(7,5,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/5/6.png"
+        }, 
+        "(8,13,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "6bc1d2ad1b60030155e76376d2b3aba7", 
+            "key": "(8,13,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/11.png"
+        }, 
+        "(8,6,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "d9fe66fa99c456b187d9810a1d062802", 
+            "key": "(8,6,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/7.png"
+        }, 
+        "(8,15,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "91c77d1150ebd8e64820907b98b36512", 
+            "key": "(8,15,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/11.png"
+        }, 
+        "(8,7,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2a3975bfe663de66f98b6ef042297fd0", 
+            "key": "(8,7,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/11.png"
+        }, 
+        "(8,4,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/0.png"
+        }, 
+        "(8,15,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/15.png"
+        }, 
+        "(8,5,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/13.png"
+        }, 
+        "(8,6,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "449bb7a6ef42bac90b1f57b559e757e0", 
+            "key": "(8,6,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/11.png"
+        }, 
+        "(7,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "218316b0541fcd5893a5c2593353f90c", 
+            "key": "(7,1,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/1/2.png"
+        }, 
+        "(8,7,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "5a35a25f39ef859603f67cc7febbedc6", 
+            "key": "(8,7,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/3.png"
+        }, 
+        "(8,6,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "834e08415aca764067b2e48f7aa96a78", 
+            "key": "(8,6,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/9.png"
+        }, 
+        "(8,11,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "8983185a40389c20b736b09621b7aef8", 
+            "key": "(8,11,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/6.png"
+        }, 
+        "(8,5,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "0c600d187a4a3704b56b2a6a98b94424", 
+            "key": "(8,5,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/7.png"
+        }, 
+        "(7,3,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "1bac040922c62e7773f3c41c7905e9b8", 
+            "key": "(7,3,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/3/6.png"
+        }, 
+        "(8,10,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "02ba4a16f9e8f2c2592402189b4437ec", 
+            "key": "(8,10,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/10.png"
+        }, 
+        "(8,6,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/1.png"
+        }, 
+        "(7,4,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,4,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/4/0.png"
+        }, 
+        "(7,7,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,7,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/7/0.png"
+        }, 
+        "(7,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "5aa01d5a96e37856a6b85757501bde04", 
+            "key": "(7,3,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/3/3.png"
+        }, 
+        "(8,2,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "6ae8e8cb53bf5f8a8d809d8a399b3479", 
+            "key": "(8,2,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/7.png"
+        }, 
+        "(8,1,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "b084cc3c45585018102b8ca2f2d637f8", 
+            "key": "(8,1,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/11.png"
+        }, 
+        "(6,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "dbcb145b262c5747ae520257c3b4b235", 
+            "key": "(6,0,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/0/1.png"
+        }, 
+        "(7,4,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,4,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/4/7.png"
+        }, 
+        "(8,14,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/2.png"
+        }, 
+        "(8,9,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "20ba5936bb6c476bb3e8c2b6fe199f1c", 
+            "key": "(8,9,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/8.png"
+        }, 
+        "(8,9,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "42a32b7c1e6eac852f398f4f4f3f1c32", 
+            "key": "(8,9,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/4.png"
+        }, 
+        "(8,0,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "905f552b5874c0384b860ee9f831f5dd", 
+            "key": "(8,0,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/4.png"
+        }, 
+        "(8,12,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "5c0cdb8de0a4487b3196ba3f80254019", 
+            "key": "(8,12,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/11.png"
+        }, 
+        "(7,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,2,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/2/0.png"
+        }, 
+        "(8,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "61cb5764d082fe16e3901f131e064001", 
+            "key": "(8,3,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/3.png"
+        }, 
+        "(8,11,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "6bb7db898d04efa183f754b712282dbd", 
+            "key": "(8,11,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/11.png"
+        }, 
+        "(8,4,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "f8b484f32006ce7cec335263bfcf119d", 
+            "key": "(8,4,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/9.png"
+        }, 
+        "(7,0,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "cd28b7d1cfe4da750f66ce5ba945c754", 
+            "key": "(7,0,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/0/5.png"
+        }, 
+        "(6,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "7c989541fed8978912b8f37473d4243d", 
+            "key": "(6,3,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/3/0.png"
+        }, 
+        "(8,2,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/15.png"
+        }, 
+        "(8,5,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "dc3684db2ddd1e95e839e952ce7fd83e", 
+            "key": "(8,5,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/6.png"
+        }, 
+        "(8,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "b6637a207a8616a21fd1e42d2b9e675b", 
+            "key": "(8,1,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/3.png"
+        }, 
+        "(8,10,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/0.png"
+        }, 
+        "(8,5,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/15.png"
+        }, 
+        "(8,8,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6f236655e209ad23aee2fccf8cbe4d21", 
+            "key": "(8,8,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/6.png"
+        }, 
+        "(8,14,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "250d3d768cdfc3426b6f1c9a2596f5aa", 
+            "key": "(8,14,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/7.png"
+        }, 
+        "(8,9,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/13.png"
+        }, 
+        "(7,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "77a15a21aab46bfe7f2f5a773cacfe3d", 
+            "key": "(7,2,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/2/3.png"
+        }, 
+        "(8,14,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "5055529c6df427c8c0f6d45408c56c76", 
+            "key": "(8,14,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/9.png"
+        }, 
+        "(8,7,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "82fe1fa9c328892f8885cbf01b85a82e", 
+            "key": "(8,7,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/9.png"
+        }, 
+        "(7,0,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,0,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/0/7.png"
+        }, 
+        "(6,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "fd10bc4a8b4644e6563fe80610a4eb19", 
+            "key": "(6,2,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/2/1.png"
+        }, 
+        "(8,13,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "795ee167f9aaed72c8cd7bc23f1cb6ad", 
+            "key": "(8,13,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/4.png"
+        }, 
+        "(8,4,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/1.png"
+        }, 
+        "(8,13,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ac7c60fff239f61d70e0def2d5f65f7b", 
+            "key": "(8,13,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/9.png"
+        }, 
+        "(8,1,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/15.png"
+        }, 
+        "(8,6,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "978b5ea971ad883dfe0ec136f56805b9", 
+            "key": "(8,6,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/6.png"
+        }, 
+        "(8,7,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/2.png"
+        }, 
+        "(8,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "5f8fe0af3009ea700f54510673b5ae97", 
+            "key": "(8,0,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/3.png"
+        }, 
+        "(7,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "81d850cdab0bd8b86c42ca47d2fcc9af", 
+            "key": "(7,0,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/0/1.png"
+        }, 
+        "(8,11,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "4f1b131ee3307ce2d4c93fee880e0d6e", 
+            "key": "(8,11,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/7.png"
+        }, 
+        "(8,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/0.png"
+        }, 
+        "(8,15,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a818f2b18cd8810f615ae7113ec077e0", 
+            "key": "(8,15,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/4.png"
+        }, 
+        "(8,11,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a4537ece8c8db39913a96f33ebba6f4f", 
+            "key": "(8,11,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/4.png"
+        }, 
+        "(8,2,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "190f1d5c41bc2eae1a534ef61b1da776", 
+            "key": "(8,2,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/4.png"
+        }, 
+        "(8,10,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "7431a560b192429e29b84e08fe64261a", 
+            "key": "(8,10,11)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/11.png"
+        }, 
+        "(6,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3f234e2ccfe24a203003e4e423fa5fd7", 
+            "key": "(6,1,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/1/0.png"
+        }, 
+        "(8,12,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2a0495f5b8488bbe2feee3e0d62a67aa", 
+            "key": "(8,12,3)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/3.png"
+        }, 
+        "(8,7,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/14.png"
+        }, 
+        "(8,7,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/15.png"
+        }, 
+        "(8,12,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ad44eae994180095ed21dd2ee351f194", 
+            "key": "(8,12,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/8.png"
+        }, 
+        "(7,7,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "848afb2a7e067ae54ff1916974121fc5", 
+            "key": "(7,7,6)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/7/6.png"
+        }, 
+        "(8,1,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1ec49a9aacd2b2794465810814806a79", 
+            "key": "(8,1,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/1/12.png"
+        }, 
+        "(8,3,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/15.png"
+        }, 
+        "(8,0,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a49209958741c0b4057dd4103ad10028", 
+            "key": "(8,0,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/5.png"
+        }, 
+        "(8,0,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "0fd8c19469411db194b056afc8a3ffc9", 
+            "key": "(8,0,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/0/9.png"
+        }, 
+        "(7,4,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "54d7e470484514b93de30a474edd01b7", 
+            "key": "(7,4,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/4/4.png"
+        }, 
+        "(8,14,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/0.png"
+        }, 
+        "(7,2,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ed96df7a098a95c9a46e53dd6f6b4de9", 
+            "key": "(7,2,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/2/5.png"
+        }, 
+        "(8,12,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a789447bbcf62e81be4492cc00bc707b", 
+            "key": "(8,12,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/12.png"
+        }, 
+        "(7,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b96338896c99dd7d77ccb8e81d599376", 
+            "key": "(7,3,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/3/1.png"
+        }, 
+        "(8,7,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f9c38c8822ae625c9350b3a5c7267e40", 
+            "key": "(8,7,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/12.png"
+        }, 
+        "(8,5,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/1.png"
+        }, 
+        "(8,11,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3dd3414d7424db9d1ff3e1a7b3e1ecf6", 
+            "key": "(8,11,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/10.png"
+        }, 
+        "(8,15,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3ddb0eb772ae605ac6e2e7fbc5317941", 
+            "key": "(8,15,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/15/7.png"
+        }, 
+        "(8,2,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/14.png"
+        }, 
+        "(8,4,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/14.png"
+        }, 
+        "(8,8,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "b0470047d1bce76840c8259bca0f70dd", 
+            "key": "(8,8,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/7.png"
+        }, 
+        "(7,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,1,0)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/1/0.png"
+        }, 
+        "(8,7,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "dd2fabc95d547e7acb686350e78fc6af", 
+            "key": "(8,7,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/8.png"
+        }, 
+        "(8,9,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "57b6800ad69c821a4b84551922ef6d2b", 
+            "key": "(8,9,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/7.png"
+        }, 
+        "(8,9,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,14)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/9/14.png"
+        }, 
+        "(7,6,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "9d8b936d463fd46ed18188d64e0776c8", 
+            "key": "(7,6,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/6/2.png"
+        }, 
+        "(8,13,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d28bfc95e43922e5a9951371fbb96486", 
+            "key": "(8,13,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/10.png"
+        }, 
+        "(8,5,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7f853213b89f064f3c013792ffecf08e", 
+            "key": "(8,5,9)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/5/9.png"
+        }, 
+        "(8,7,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/7/1.png"
+        }, 
+        "(8,6,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "609b9d9a27539dcae9f1c214c937c939", 
+            "key": "(8,6,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/10.png"
+        }, 
+        "(8,11,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "fe3757c9577f4a4e9d71c75d7bd2e3f0", 
+            "key": "(8,11,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/12.png"
+        }, 
+        "(7,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0ae725bdf965656c251f3dacd62df9e3", 
+            "key": "(7,3,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/3/2.png"
+        }, 
+        "(8,3,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "eb23e3b9a07c452814c67447733b68ad", 
+            "key": "(8,3,7)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/3/7.png"
+        }, 
+        "(8,6,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,13)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/6/13.png"
+        }, 
+        "(6,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "cfa307fac90ab0d0a2dcebb3d6e7e277", 
+            "key": "(6,2,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/2/2.png"
+        }, 
+        "(8,8,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3e64ab4a1b78133684e22f4827375437", 
+            "key": "(8,8,10)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/8/10.png"
+        }, 
+        "(8,2,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "128eaa3f35fe13747cf6ad7c2b2d0eba", 
+            "key": "(8,2,5)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/2/5.png"
+        }, 
+        "(7,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e8e28d380ade2d1ffeebbc046c5911b3", 
+            "key": "(7,2,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/2/2.png"
+        }, 
+        "(8,10,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "c914a3fcab605592d7a08fb68c43f826", 
+            "key": "(8,10,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/8.png"
+        }, 
+        "(8,10,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,15)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/10/15.png"
+        }, 
+        "(8,12,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/12/2.png"
+        }, 
+        "(8,14,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "8abc41317d9d1c4d9819c48516226f65", 
+            "key": "(8,14,12)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/14/12.png"
+        }, 
+        "(6,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "6d5e9df5d59a0c8899d18e1bd1731dcb", 
+            "key": "(6,3,1)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/3/1.png"
+        }, 
+        "(8,11,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cb7b2f5fd6da8c991ca95b24390f403c", 
+            "key": "(8,11,8)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/11/8.png"
+        }, 
+        "(8,4,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/4/2.png"
+        }, 
+        "(6,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "a18cc68075b2a11e1ce22a20becaa550", 
+            "key": "(6,0,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/6/0/2.png"
+        }, 
+        "(7,6,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "d25e07f38cc948f3cebd61db9b30a084", 
+            "key": "(7,6,4)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/7/6/4.png"
+        }, 
+        "(8,13,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,2)", 
+            "filename": "/home/maitre/Documents/dnd/Apva\u00ffa/Apvaya-map/map/8/13/2.png"
+        }
+    }, 
+    "status": {
+        "notdone": 0, 
+        "progress": 1.0, 
+        "skipped": 0, 
+        "done": 341
+    }, 
+    "minzoom": 4, 
+    "errors": {
+        "count": 0, 
+        "log": {}
+    }, 
+    "referencesize": 4096
+}
