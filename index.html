@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html ="style" ="height: 100%;">
   <head>
-    <title>Vilenought Map</title>
+    <title>Apvaÿa Map</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="scripts/leaflet.css" />
     <script src="scripts/leaflet.js"></script>
@@ -53,12 +53,18 @@
       });
 
       //Coordinate Finder
-      var marker = L.marker([86.02948362045395, 311.6352167210588], {
+      /*var marker = L.marker([86.02948362045395, 311.6352167210588], {
         draggable: true,
       }).addTo(map);
       bindPopup(
         '<a href="https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l"><b> Tar Neôl </b>'
-      ).addTo(map);
+      );
+      */
+      var vile_smoke = L.marker([-4.740675, -72.246094], { icon: cityDwarves })
+        .bindPopup(
+          '<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr"><b> The Tower of Smoke - Markhalyri Stronghold </b>'
+        )
+        .addTo(map);
       //marker.on("dragend", function (e) {
       //  marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
       //});
