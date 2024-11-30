@@ -53,6 +53,12 @@
       marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
     });
 
+    var cityTarNeol = L.marker([-38.4, -4.75], {
+      draggable: false,
+    }).addTo(map);
+    cityTarNeol.bindPopup('<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr"><b> The Tower of Smoke - Markhalyri Stronghold </b>');
+    
+
 
 //var vile_thicket = L.marker([32.546813, -52.294922], {icon: cityDruid}).bindPopup('<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/4.-The-Venthalyr"><b> The Thicket - Venthalyri Satelite Forest</b>').addTo(map);
 //var vile_smoke = L.marker([-4.740675, -72.246094], {icon: cityDwarves}).bindPopup('<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr"><b> The Tower of Smoke - Markhalyri Stronghold </b>').addTo(map);
