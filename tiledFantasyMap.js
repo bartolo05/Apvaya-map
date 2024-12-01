@@ -195,8 +195,8 @@ function pointToLayer(feature, latlng) {
     iconSize: [30, 42], // size of the icon
     shadowSize: [26, 38], // size of the shadow
     iconAnchor: [15, 42], // point of the icon which will correspond to marker's location
-    shadowAnchor: [02, 38], // the same for the shadow
-    popupAnchor: [00, -20], // point from which the popup should open relative to the iconAnchor
+    shadowAnchor: [2, 38], // the same for the shadow
+    popupAnchor: [0, -20], // point from which the popup should open relative to the iconAnchor
   });
 
   if (useCustomMarkerIcon) {
