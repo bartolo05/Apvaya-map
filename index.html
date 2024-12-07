@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html = style="height: 100%;">
+  <head>
+    <title>Vilenought Map</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="scripts/leaflet.css">
+    <script src="scripts/leaflet.js"></script>
+	<link rel="stylesheet" href="scripts/L.Control.BetterScale.css" />
+	<script src="scripts/L.Control.BetterScale.js"></script>
+  </head>
+  
+  <body style="height: 100%;margin: 0;">
+    <div id="map" style="width: 100%; height: 100%; background: #000000;"></div>
+    <script type="text/javascript">
+
+  //Creating the Map
+    var map = L.map('map').setView([0, 0], 0);
+    L.tileLayer('map/{z}/{x}/{y}.png', {
+      continuousWorld: false,
+      noWrap: true,  
+      minZoom: 2,
+      maxZoom: 5,
+    }).addTo(map);
+
+ //Icons
+	var cityDruid = L.icon({
+		iconUrl:       'icons/cityDruid.png',
+		iconRetinaUrl: 'icons/cityDruid.png',
+		shadowUrl:     'icons/shadow.png',
+		iconSize:    [25, 41],
+		iconAnchor:  [12, 41],
+		popupAnchor: [1, -34],
+		tooltipAnchor: [16, -28],
+		shadowSize:  [41, 41]
+	});
+	var cityDwarves = L.icon({
+		iconUrl:       'icons/cityDwarves.png',
+		iconRetinaUrl: 'icons/cityDwarves.png',
+		shadowUrl:     'icons/shadow.png',
+		iconSize:    [25, 41],
+		iconAnchor:  [12, 41],
+		popupAnchor: [1, -34],
+		tooltipAnchor: [16, -28],
+		shadowSize:  [41, 41]
+	});
+
+  //Coordinate Finder
+    var marker = L.marker([0, 0], {
+      draggable: true,
+    }).addTo(map);
+    marker.bindPopup('LatLng Marker').openPopup();
+    marker.on('dragend', function(e) {
+      marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
+    });
+
+
+var vile_thicket = L.marker([32.546813, -52.294922], {icon: cityDruid}).bindPopup('<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/4.-The-Venthalyr"><b> The Thicket - Venthalyri Satelite Forest</b>').addTo(map);
+var vile_smoke = L.marker([-4.740675, -72.246094], {icon: cityDwarves}).bindPopup('<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr"><b> The Tower of Smoke - Markhalyri Stronghold </b>').addTo(map);
+
+L.control.scale({metric: true, maxWidth: 250}).addTo(map);
+
+    </script>
+  </body>
+</html>
