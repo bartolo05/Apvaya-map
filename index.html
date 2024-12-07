@@ -62,7 +62,7 @@
         marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
       });
 
-      /*var vile_thicket = L.marker([32.546813, -52.294922], { icon: cityDruid })
+      var vile_thicket = L.marker([32.546813, -52.294922], { icon: cityDruid })
         .bindPopup(
           '<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/4.-The-Venthalyr"><b> The Thicket - Venthalyri Satelite Forest</b>'
         )
@@ -72,12 +72,14 @@
           '<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr"><b> The Tower of Smoke - Markhalyri Stronghold </b>'
         )
         .addTo(map);
-        */
+
       var tar_neol = L.marker([-38.13, -5.98], {
         icon: city,
-      }).bindPopup(
-        '<a href="https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l"><b> The city of Tar Neôl </b>'
-      );
+      })
+        .bindPopup(
+          '<a href="https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l"><b> The city of Tar Neôl </b>'
+        )
+        .addTo(map);
 
       L.control.scale({ metric: true, maxWidth: 250 }).addTo(map);
     </script>
