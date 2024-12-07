@@ -75,13 +75,13 @@
       /* BASIC CUSTOMIZATIONS */
       mapDim.referencesize = 4096; /* AM: Update this to be the height and width of your (presumably square) source map. */
       mapDim.metersPerPixel = 800; /* AM: Updated arbitrarily to make Silverbridge Lake about 10 km wide - This is the main control of your scale. Play with this to adjust the scale to your liking. This variable means "How many meters does one pixel on my map represent. It can be a fraction. */
-      mapDim.minzoom = 4; /* AM: Added to match your tiling folders */
-      mapDim.maxzoom = 8; /* AM: Added to match your tiling folders */
+      mapDim.minzoom = 0; /* AM: Added to match your tiling folders */
+      mapDim.maxzoom = 5; /* AM: Added to match your tiling folders */
 
       var mapLocation =
-        "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/map/{z}/{x}/{y}.png"; /* AM2: Edited to point to your github tile locations with the "raw" path, not the github viewable path. */
+        "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/map/{z}/{x}/{y}.png"; /* AM2: Edited to point to your github tile locations with the "raw" path, not the github viewable path. */
       var locationsList = [
-        "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/locations/Locations.json" /* AM2: Updated with the location of the "raw" file, instead of the github viewable page for the file. */,
+        "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/locations/Locations.json" /* AM2: Updated with the location of the "raw" file, instead of the github viewable page for the file. */,
       ];
 
       var useCustomMarkerIcon = true;
