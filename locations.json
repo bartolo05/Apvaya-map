@@ -17,6 +17,57 @@
         "type": "Point",
         "coordinates": [-56, -480]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l'>A</a>",
+        "marker-group": "City",
+        "ID": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80, -530]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l'>B</a>",
+        "marker-group": "City",
+        "ID": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170, -570]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l'>C</a>",
+        "marker-group": "City",
+        "ID": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50, -700]
+      }
     }
   ]
 }
