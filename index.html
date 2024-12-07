@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html ="style" ="height: 100%;">
   <head>
-    <title>Apvaÿa map</title>
+    <title>Apvaÿa</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="scripts/leaflet.css" />
     <script src="scripts/leaflet.js"></script>
@@ -42,16 +42,6 @@
         tooltipAnchor: [16, -28],
         shadowSize: [41, 41],
       });
-      var city = L.icon({
-        iconUrl: "icons/city.png",
-        iconRetinaUrl: "icons/city.png",
-        shadowUrl: "icons/shadow.png",
-        iconSize: [25, 41],
-        iconAnchor: [12, 41],
-        popupAnchor: [1, -34],
-        tooltipAnchor: [16, -28],
-        shadowSize: [41, 41],
-      });
 
       //Coordinate Finder
       var marker = L.marker([0, 0], {
@@ -70,14 +60,6 @@
       var vile_smoke = L.marker([-4.740675, -72.246094], { icon: cityDwarves })
         .bindPopup(
           '<a href="https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr"><b> The Tower of Smoke - Markhalyri Stronghold </b>'
-        )
-        .addTo(map);
-
-      var tar_neol = L.marker([-38.13, -5.98], {
-        icon: city,
-      })
-        .bindPopup(
-          '<a href="https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l"><b> The city of Tar Neôl </b>'
         )
         .addTo(map);
 
