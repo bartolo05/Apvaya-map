@@ -9,6 +9,23 @@
         "stroke": "#555555",
         "marker-size": "medium",
         "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l'><strong>Tar Neôl</strong> - De koperen stad</a>",
+        "marker-group": "Venthalyr_Minor",
+        "ID": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56, -480]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "popup-text": "<a href='https://master-noiza.github.io/the-wiki/4.-The-Races/4.-The-Venthalyr/1.-Lore'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
         "marker-group": "Venthalyr_Minor",
         "ID": "1"
