@@ -75,8 +75,8 @@
       /* BASIC CUSTOMIZATIONS */
       mapDim.referencesize = 4096; /* AM: Update this to be the height and width of your (presumably square) source map. */
       mapDim.metersPerPixel = 800; /* AM: Updated arbitrarily to make Silverbridge Lake about 10 km wide - This is the main control of your scale. Play with this to adjust the scale to your liking. This variable means "How many meters does one pixel on my map represent. It can be a fraction. */
-      mapDim.minzoom = 0; /* AM: Added to match your tiling folders */
-      mapDim.maxzoom = 5; /* AM: Added to match your tiling folders */
+      mapDim.minzoom = 4; /* AM: Added to match your tiling folders */
+      mapDim.maxzoom = 8; /* AM: Added to match your tiling folders */
 
       var mapLocation =
         "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/map/{z}/{x}/{y}.png"; /* AM2: Edited to point to your github tile locations with the "raw" path, not the github viewable path. */
@@ -89,21 +89,21 @@
       // The keys in the map below should map to the "marker-group" property of the GeoJSON file in which locations are defined.
       var customMarkers = {
         Default:
-          "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/icons/city.png" /* AM: Arbitrarily picked Dwarves as the default.  Edit as you please. */,
+          "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/icons/city.png" /* AM: Arbitrarily picked Dwarves as the default.  Edit as you please. */,
         Markhalyr:
-          "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/icons/cityDwarves.png" /* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Dwarven City". */,
+          "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/icons/cityDwarves.png" /* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Dwarven City". */,
         Venthalyr:
-          "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/icons/cityDruid.png" /* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Druid City". */,
+          "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/icons/cityDruid.png" /* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Druid City". */,
         Anthalyr:
-          "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/icons/cityHalflings.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
+          "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/icons/cityHalflings.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
         Monkhalyr:
-          "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/icons/city.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
+          "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/icons/city.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
         Monkhalyr_Minor:
-          "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/icons/town.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
+          "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/icons/town.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
         Venthalyr_Minor:
-          "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/icons/townDruid.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
+          "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/icons/townDruid.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
         Ruins:
-          "https://raw.githubusercontent.com/Master-Noiza/world-map/refs/heads/main/icons/poiRuin.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
+          "https://raw.githubusercontent.com/bartolo05/Apvaya-map/refs/heads/main/icons/poiRuin.png" /* AM: Updated to point to your tundra city icon for anyhing in the location file in the marker group "Tundra City". */,
       };
 
       /* MEASURE: Modified to allow measurements. */
