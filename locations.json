@@ -10,114 +10,12 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l'><strong>Tar Neôl</strong> - De koperen stad</a>",
-        "marker-group": "Venthalyr_Minor",
+        "marker-group": "City",
         "ID": "1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-56, -480]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "<a href='https://master-noiza.github.io/the-wiki/4.-The-Races/4.-The-Venthalyr/1.-Lore'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
-        "marker-group": "Venthalyr_Minor",
-        "ID": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [902, 1149]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "<a href='https://master-noiza.github.io/the-wiki/4.-The-Races/3.-The-Markhalyr/1.-Lore'><strong>Clan Drazhmir</strong> - Markhalyri Stronghold</a>",
-        "marker-group": "Markhalyr",
-        "ID": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [617, 1066]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "<a href='https://master-noiza.github.io/the-wiki/2.-Atlas/1.-Settlements/Arkhold'><strong>Arkhold</strong> - Monkhalyri Fortress-City</a>",
-        "marker-group": "Monkhalyr",
-        "ID": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [1025, 876]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "<a href='https://master-noiza.github.io/the-wiki/2.-Atlas/1.-Settlements/Respite'><strong>Respite</strong> - Monkhalyri Village</a>",
-        "marker-group": "Monkhalyr_Minor",
-        "ID": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [811, 1103]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "<a href='https://master-noiza.github.io/the-wiki/2.-Atlas/Locations/Zhar-Kaith'><strong>Zhar-Kaith</strong> - Ancient Ruins</a>",
-        "marker-group": "Ruins",
-        "ID": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [958, 940]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "fill": "#7e7e7e",
-        "stroke": "#555555",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "popup-text": "<a href='https://master-noiza.github.io/the-wiki/4.-The-Races/5.-The-Anthalyr/2.-Mechanics'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
-        "marker-group": "Anthalyr",
-        "ID": "1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [923, 1250]
       }
     }
   ]
