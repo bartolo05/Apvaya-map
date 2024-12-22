@@ -151,7 +151,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [333, -580]
+        "coordinates": [-636, -603]
       }
     },
     {
@@ -185,7 +185,58 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-733, -524]
+        "coordinates": [-987, -726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Features/Koperzee'>Koperzee</a>",
+        "marker-group": "Sea",
+        "ID": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-164, -363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Features/Zinkzee'>Zinkzee</a>",
+        "marker-group": "Sea",
+        "ID": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [246, -432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Features/Qhass'>Zee van Qhass</a>",
+        "marker-group": "Sea",
+        "ID": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1263, -756]
       }
     }
   ]
