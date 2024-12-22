@@ -185,7 +185,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-987, -726]
+        "coordinates": [987, -726]
       }
     },
     {
@@ -232,11 +232,62 @@
         "marker-symbol": "",
         "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Features/Qhass'>Zee van Qhass</a>",
         "marker-group": "Sea",
-        "ID": "13"
+        "ID": "14"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [1263, -756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Features/Kathbaai'>Kathbaai</a>",
+        "marker-group": "Sea",
+        "ID": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1020, -525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Features/Berobergen'>Berobergen</a>",
+        "marker-group": "Mountains",
+        "ID": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [472, 122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Features/Naqaab'>Naqaab</a>",
+        "marker-group": "Desert",
+        "ID": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [472, 122]
       }
     }
   ]
