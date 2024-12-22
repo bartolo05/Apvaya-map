@@ -170,6 +170,23 @@
         "type": "Point",
         "coordinates": [-733, -524]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/Qhaï'>Qhaï</a>",
+        "marker-group": "City",
+        "ID": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-733, -524]
+      }
     }
   ]
 }
