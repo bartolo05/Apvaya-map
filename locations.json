@@ -26,9 +26,9 @@
         "stroke": "#555555",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l'>A</a>",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/Nasrir'>Ghester</a>",
         "marker-group": "City",
-        "ID": "1"
+        "ID": "2"
       },
       "geometry": {
         "type": "Point",
@@ -43,9 +43,9 @@
         "stroke": "#555555",
         "marker-size": "medium",
         "marker-symbol": "",
-        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l'>B</a>",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/Ysri'>Ysri</a>",
         "marker-group": "City",
-        "ID": "1"
+        "ID": "3"
       },
       "geometry": {
         "type": "Point",
@@ -60,13 +60,115 @@
         "stroke": "#555555",
         "marker-size": "medium",
         "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/%C3%96l'>öl</a>",
+        "marker-group": "City",
+        "ID": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [324, -75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Main/Tar-Ne%C3%B4l'>C</a>",
         "marker-group": "Sea",
-        "ID": "1"
+        "ID": "5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-50, -700]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/Nasrir'>Nasrir</a>",
+        "marker-group": "City",
+        "ID": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [333, -580]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/Waarpoel'>Waarpoel</a>",
+        "marker-group": "City",
+        "ID": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-347, -352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/Ordsas'>Ordsas</a>",
+        "marker-group": "City",
+        "ID": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-310, -850]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/Oud--en-Nieuw-Kathander'>Nieuw Kathander</a>",
+        "marker-group": "City",
+        "ID": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [333, -580]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "fill": "#7e7e7e",
+        "stroke": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "popup-text": "<a href='https://bartolo05.github.io/Apvaya/Locations/Cities/Oud--en-Nieuw-Kathander'>Oud Kathander</a>",
+        "marker-group": "City",
+        "ID": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-733, -524]
       }
     }
   ]
